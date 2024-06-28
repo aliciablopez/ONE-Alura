@@ -2,7 +2,7 @@ javascript
 alert('Bienvenido al juego del número secreto');
 let intento = prompt('Elige un número entre 1 y 10');
 
-let numeroSecreto = 4;
+let numeroSecreto = 2;
 
 console.log(intento  == numeroSecreto);
 if (intento  == numeroSecreto) {
